@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Runtime state / logs
+watch.log
+*.old.log
+*.flag
+
+# Local artwork: wallpapers are supplied by each user, never committed
+*.webp
+*.png
+*.jpg
+*.jpeg
+skin-preview.png
+
+# Superseded one-off scripts kept only on the author's machine
+retired/
+
+# OS
+Thumbs.db
+.DS_Store
